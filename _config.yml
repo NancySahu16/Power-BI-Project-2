@@ -1,1 +1,17 @@
 
+title: My Work Sample 2
+description: This repository contains sample power BI project2 created to demonstrate my capabilities.
+theme: jekyll-theme-minimal
+
+markdown: kramdown
+
+include:
+    - README.md
+  
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
