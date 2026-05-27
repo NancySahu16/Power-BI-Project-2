@@ -39,7 +39,8 @@ The dashboard helps uncover patterns in shipping expenses, customer contribution
 ## 📸 Dashboard Preview
 
 ### 📈 Main Dashboard
-![image](images/superstore_sale_top_up.PNG)
+![top up](images/superstore_sale_top_up.png)
+![bottom up](bottom_up_analysis_filtering.png)
 
 ---
 
